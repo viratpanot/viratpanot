@@ -11,5 +11,4 @@ Here are some ideas to get you started:
 - 📫 You can find me @viratpanot at Instagram/Twitter
 - 😄 Pronouns: He 
 - ⚡ Fun fact: I feel young when I am learning so let's continue.
-- Let's find out more insights on git hub
 
