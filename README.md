@@ -6,5 +6,6 @@
 - 👯 I’m looking to collaborate on Interesting real life problems
 - 📫 You can find me @viratpanot at Instagram/Twitter
 - 😄 Pronouns: He 
-- ⚡ Fun fact: I feel young when I am learning so let's continue.
+- ⚡ Fun fact: I feel young when I am learning so let's continue.  
+- You can find more about me [here](https://viratpanot.github.io)
 
