@@ -8,9 +8,12 @@
 - 😄 Pronouns: He, Him, His Friend, Her Friend.
 - ⚡ Fun fact: I feel young when I am learning so let's continue.  
 - You can find more about me [here --> viratpanot.me](https://viratpanot.github.io)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viratpanot)](https://github.com/viratpanot/github-readme-stats)
 
-[![Virat's GitHub stats](https://github-readme-stats.vercel.app/api?username=viratpanot)](https://github.com/viratpanot/github-readme-stats)
 
 ![Virat's GitHub stats](https://github-readme-stats.vercel.app/api?username=viratpanot&show_icons=true&theme=tokyonight)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viratpanot)](https://github.com/viratpanot/github-readme-stats)
+
+
+
