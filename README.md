@@ -9,4 +9,4 @@
 - ⚡ Fun fact: I feel young when I am learning so let's continue.  
 - You can find more about me [here --> viratpanot.me](https://viratpanot.github.io)
   
-![GitHub](/image/D89170FC-B957-42FD-8D9B-1A1250651433.jpeg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viratpanot)](https://github.com/viratpanot/github-readme-stats)
