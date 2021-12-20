@@ -10,3 +10,5 @@
 - You can find more about me [here --> viratpanot.me](https://viratpanot.github.io)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viratpanot)](https://github.com/viratpanot/github-readme-stats)
+
+[![Virat's GitHub stats](https://github-readme-stats.vercel.app/api?username=viratpanot)](https://github.com/viratpanot/github-readme-stats)
