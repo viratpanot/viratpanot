@@ -7,7 +7,6 @@
 - 📫 You can find me @viratpanot at Instagram/Twitter
 - 😄 Pronouns: He, Him, His Friend, Her Friend.
 - ⚡ Fun fact: I feel young when I am learning so let's continue.  
-- You can find more about me [here --> viratpanot.me](https://viratpanot.github.io)
 
 
 ![Virat's GitHub stats](https://github-readme-stats.vercel.app/api?username=viratpanot&show_icons=true&theme=tokyonight)
